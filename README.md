@@ -39,49 +39,17 @@ make qemu
 ```
 $ cps
 ```
-#### For Signal:
-```
-$ signal
-```
+
 #### For Thread:
 ```
 $ thread_test
 ```
-#### For Message Queue:
+
+#### For Signal:
 ```
-$ msgtest
+$ signal
 ```
 ---
-
-### Terminal Output Images
-
-1. **Make Clean**
-
-![ALT TEXT](images/makeclean.png)
-
-2. **Make**
-
-![ALT TEXT](images/make1.png)
-![ALT TEXT](images/make2.png)
-
-3. **Make Qemu**
-
-![ALT TEXT](images/makeqemu.png)
-
-4. **CPS**
-
-![ALT TEXT](images/cps.png)
-
-
-
-5. **THREAD_TEST**
-
-![ALT TEXT](images/thread_create.png)
-
-6. **SIGNAL**
-
-![ALT TEXT](images/signal.png)
-
 
 
 ## Question 2: Multi-Threaded File Management System  
